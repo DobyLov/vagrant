@@ -1,0 +1,6 @@
+#id ssl
+id_rsa
+id_rsa.pub
+keyz/
+myVagrantfile
+Vagrantfile.bkp
